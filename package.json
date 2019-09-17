@@ -55,7 +55,7 @@
     "moment-timezone": "^0.5.26",
     "node-idevice": "^0.1.6",
     "node-simctl": "^5.0.0",
-    "pem": "^1.8.3",
+    "pem": "1.14.2",
     "portfinder": "^1.0.13",
     "request": "^2.79.0",
     "request-promise": "^4.1.1",
